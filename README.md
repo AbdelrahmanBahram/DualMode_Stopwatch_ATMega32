@@ -4,7 +4,7 @@ This project is a digital stopwatch built on the ATmega32 microcontroller with t
 - **Increment mode**: Counts up from 00:00:00
 - **Countdown mode**: Counts down from a user-set time
 
-## 🎯 Features
+##  Features
 - 6 multiplexed seven-segment displays (HH:MM:SS)
 - 10 push-button controls
 - Mode toggle, reset, pause, and resume functionality
@@ -14,6 +14,6 @@ This project is a digital stopwatch built on the ATmega32 microcontroller with t
 - External interrupts for button actions (INT0, INT1, INT2)
 
 
-## 📁 Folder Structure
+##  Folder Structure
 - `code/` – C and header files for microcontroller
 - `simulation/` – Proteus or simulation files
